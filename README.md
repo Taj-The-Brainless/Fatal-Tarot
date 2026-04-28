@@ -17,13 +17,10 @@ The game unfolds in a dim, symbolic space where every card feels like it already
 
 ## Download link: https://malone523.itch.io/fataltarot
 
----
-
 ## Team members: 
-a
-      -    **Tajwar Ali**   
-      -    **Basma Salim**  
-      -    **Sonam Tobden**   
-      -    **Hamza Ismail**
-      -    **Cristian Malus**
-      -    **Denis-Serban-Matei Rosu**
+   -    **Tajwar Ali**   
+   -    **Basma Salim**
+   -    **Sonam Tobden**
+   -    **Hamza Ismail**
+   -    **Cristian Malus**
+   -    **Denis-Serban-Matei Rosu**
