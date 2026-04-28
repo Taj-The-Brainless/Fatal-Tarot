@@ -1,6 +1,6 @@
 # Fatal Tarot
 
-   Constructor Press Play Game Jam 
+   Constructor Press Play Game Jam   
    Built in 48 hours at Constructor University Bremen
 
 ---
@@ -20,6 +20,7 @@ The game unfolds in a dim, symbolic space where every card feels like it already
 ---
 
 ## Team members: 
+a
       -    **Tajwar Ali**   
       -    **Basma Salim**  
       -    **Sonam Tobden**   
