@@ -3,7 +3,7 @@
    Constructor Press Play Game Jam   
    Built in 48 hours at Constructor University Bremen
 
----
+**---**
 
 ## What is Fatal Tarot
 
@@ -13,7 +13,7 @@ Every match is a short ritual of tension between you and a calm, unreadable AI o
 
 The game unfolds in a dim, symbolic space where every card feels like it already had an outcome before it was played. Or at least, it should have.
 
----
+**---**
 
 ## Download link: https://malone523.itch.io/fataltarot
 
